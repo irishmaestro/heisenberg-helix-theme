@@ -33,11 +33,11 @@
 
 # Interface
 "ui.background" = { bg = "background" }
-"ui.cursor" = { bg = "crystal_blue", fg = "#000000" }
+"ui.cursor" = { bg = "crystal_blue", fg = "background" }
 "ui.cursor.match" = { fg = "hazmat_yellow" }
 "ui.linenr" = { fg = "crystal_blue" }
 "ui.linenr.selected" = { fg = "green" }
-"ui.statusline" = { fg = "crystal_blue", bg = "#000000" } 
+"ui.statusline" = { fg = "crystal_blue", bg = "black" } 
 "ui.cursorline" = { bg = "background" }
 "ui.popup" = { fg = "crystal_blue", bg = "background" }
 "ui.window" = { fg = "green" }
@@ -46,9 +46,9 @@
 "ui.text.focus" = { bg = "background", fg = "teddy_bear_pink" }
 "ui.text.info" = { fg = "crystal_blue" }
 "ui.virtual.whitespace" = { fg = "dark_gray" }
-"ui.virtual.ruler" = { bg = "#000000" }
+"ui.virtual.ruler" = { bg = "background" }
 "ui.menu" = { fg = "crystal_blue", bg = "background" }
-"ui.menu.selected" = { bg = "orange", fg = "background" }
+"ui.menu.selected" = { bg = "hazmat_yellow", fg = "background" }
 "ui.selection" = { bg = "dark_gray" }
 "warning" = { fg = "vapor_yellow" }
 "error" = { fg = "chili_powder_red", modifiers = ["bold"] }
@@ -66,7 +66,7 @@
 [palette]
 background = "#000000"   
 foreground = "#cccccc"
-black = "#131721"
+black = "#121212"
 blue = "#59c2ff"
 dark_gray = "#2d3640"
 cyan = "#73b8ff"
