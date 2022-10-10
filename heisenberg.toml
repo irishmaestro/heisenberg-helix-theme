@@ -10,7 +10,7 @@
 "string.special" = { fg = "yellow" }
 "comment" = { fg = "teddy_bear_pink", modifiers = ["slow_blink", "italic"] }
 "variable" = { fg = "element_green" }
-"variable.parameter" = { fg = "crystal_blue" }
+"variable.parameter" = { fg = "hazmat_yellow" }
 "label" = { fg = "vapor_yellow" }
 "punctuation" = { fg = "green" }
 "keyword" = { fg = "green" }
@@ -20,7 +20,7 @@
 "function" = { fg = "cash_green", modifiers = ["bold"] }
 "tag" = { fg = "crystal_blue" }
 "namespace" = { fg = "hazmat_yellow" }
-"markup.heading" = { fg = "orange" }
+"markup.heading" = { fg = "hazmat_yellow" }
 "markup.list" = { fg = "yellow" }
 "markup.raw.block" = { bg = "gray", fg = "orange" }
 "markup.link.url" = { fg = "crystal_blue" }
