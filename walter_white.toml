@@ -1,0 +1,4 @@
+# Author: IrishMaestro <github.com/irishmaestro>
+inherits = "heisenberg"
+"ui.background" = { fg = "#FFF"}
+
